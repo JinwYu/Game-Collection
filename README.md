@@ -11,5 +11,3 @@ Utvecklat med MEAN-Stack, dvs. MongoDB, Express.js, AngularJS och Node.js.
 **Server-side:** Det Micro-service framework vi använde var Express.js för Node.js.
 
 **Data and user management:** Auth0 för inloggning och mLab för vår MongoDB-databas. 
-
-**SCREEN CAST:** https://youtu.be/CyAH_MNzTa0
