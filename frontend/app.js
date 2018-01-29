@@ -42,7 +42,7 @@
 
     // Initialization for the angular-auth0 library
     angularAuth0Provider.init({
-      clientID: 'FzEKiXPnzj6PRuxDAJcScQDDoVro3sFz',
+      clientID: 'ADD CLIENT ID FROM AUTH0',
       domain: 'gamecollection.eu.auth0.com',
       responseType: 'token id_token',
       audience: 'https://gamecollection.eu.auth0.com/userinfo',
